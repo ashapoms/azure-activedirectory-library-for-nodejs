@@ -67,7 +67,7 @@ if (!parametersFile) {
         tenant: 'contosomsspb.onmicrosoft.com',
         authorityHostUrl: 'https://login.windows.net',
         clientId: 'e3044db4-0fba-4323-9a91-120853c02e67',
-        clientSecret: 'SeverSt@l01',
+        clientSecret: '1234567890QWERTY',
         username: 'sevstaluser01@contosomsspb.onmicrosoft.com',
         password: 'SeverSt@l01'
     };
