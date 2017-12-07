@@ -66,7 +66,7 @@ if (!parametersFile) {
     sampleParameters = {
         tenant: 'contosomsspb.onmicrosoft.com',
         authorityHostUrl: 'https://login.windows.net',
-        clientId: 'c1700d66-e1aa-4213-bd3a-14b8caf50f94',
+        clientId: 'e3044db4-0fba-4323-9a91-120853c02e67',
         username: 'sevstaluser01@contosomsspb.onmicrosoft.com',
         password: 'SeverSt@l01'
     };
