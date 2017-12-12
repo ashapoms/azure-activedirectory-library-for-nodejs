@@ -151,5 +151,5 @@ app.get('/getAToken', function (req, res) {
     });
 });
 
-app.listen(3000, "centos-srv01");
+app.listen(3000);
 console.log('listening on 3000');
